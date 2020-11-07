@@ -2,14 +2,14 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.0">
  <work>
-  <work-title>Amore, quando</work-title>
+  <work-title>Amore, amor</work-title>
  </work>
  <identification>
   <creator type="composer">Bernardo Pisano</creator>
   <creator type="lyricist">OMR Pisano 26 edited IL</creator>
   <rights>Copyright © </rights>
   <encoding>
-   <encoding-date>2020-10-27</encoding-date>
+   <encoding-date>2020-11-07</encoding-date>
    <encoder>Ian Lorenz</encoder>
    <software>Sibelius 18.1.0</software>
    <software>Direct export, not from Dolet</software>
@@ -71,7 +71,7 @@
   <lyric-language xml:lang="en" />
  </defaults>
  <credit page="1">
-  <credit-words default-x="840" default-y="155" font-family="Plantin MT Std" font-style="normal" font-size="15.7234" font-weight="normal" justify="center" valign="middle">Amore, quando</credit-words>
+  <credit-words default-x="840" default-y="155" font-family="Plantin MT Std" font-style="normal" font-size="15.7234" font-weight="normal" justify="center" valign="middle">Amore, amor</credit-words>
  </credit>
  <credit page="1">
   <credit-words default-x="840" default-y="118" font-family="Plantin MT Std" font-style="normal" font-size="9.9656" font-weight="normal" justify="center" valign="middle">MS Florence 164 no. 8
