@@ -2,6 +2,8 @@
 
 ## About this project
 
+This study revisits the origins of the Italian madrigal by using computer-aided analysis of generic style features on a set of Florentine partbooks (MS Florence 164-167). Here you will find the symbolic files used throughout the study (the symbolic files folder), the critical notes for the symbolic files (the documentation folder), and the published article and presentation with slides (the description of project folder).
+
 All the pieces in Florence 164 used in this study are available as MIDI and PDF files at https://zenodo.org/record/4451464#.YAdwE-hKj-g. 
 Pre-extracted feature values are also posted there.
 
