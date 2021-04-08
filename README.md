@@ -2,8 +2,8 @@
 
 ## About this project
 
-
-https://drive.google.com/drive/folders/1H2qeRlRUxG5QLN-LptxPAFqJ5AuWiKDm
+All the pieces in Florence 164 used in this study are available as MIDI and PDF files at https://zenodo.org/record/4451464#.YAdwE-hKj-g. 
+Pre-extracted feature values are also posted there.
 
 
 ## Licensing
